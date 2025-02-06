@@ -1,1 +1,1 @@
-# Sem-3-AI-Assignments
+# Sem 2 AI ASSIGNMENTS
