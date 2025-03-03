@@ -1,0 +1,7 @@
+C:\Users\Ganesh\OneDrive\Desktop\GIt Repos\Sem-II\.NET\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe.config
+C:\Users\Ganesh\OneDrive\Desktop\GIt Repos\Sem-II\.NET\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe
+C:\Users\Ganesh\OneDrive\Desktop\GIt Repos\Sem-II\.NET\Assignment 1\Assignment 1\bin\Debug\Assignment 1.pdb
+C:\Users\Ganesh\OneDrive\Desktop\GIt Repos\Sem-II\.NET\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.AssemblyReference.cache
+C:\Users\Ganesh\OneDrive\Desktop\GIt Repos\Sem-II\.NET\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh\OneDrive\Desktop\GIt Repos\Sem-II\.NET\Assignment 1\Assignment 1\obj\Debug\Assignment 1.exe
+C:\Users\Ganesh\OneDrive\Desktop\GIt Repos\Sem-II\.NET\Assignment 1\Assignment 1\obj\Debug\Assignment 1.pdb
