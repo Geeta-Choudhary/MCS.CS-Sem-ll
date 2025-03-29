@@ -12,7 +12,7 @@ public class Product
 public class Assignment7
 {
     public static void Main(string[] args)
-    {
+    {   //creating the list
         List<Product> products = new List<Product>()
         {
             new Product { Name = "Laptop", Category = "Electronics", Price = 1200.00m },
