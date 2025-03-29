@@ -1,0 +1,15 @@
+Z:\SEM 2\.NET\Assignment 9\Assignment 9\bin\Debug\net6.0\Assignment 9.exe
+Z:\SEM 2\.NET\Assignment 9\Assignment 9\bin\Debug\net6.0\Assignment 9.deps.json
+Z:\SEM 2\.NET\Assignment 9\Assignment 9\bin\Debug\net6.0\Assignment 9.runtimeconfig.json
+Z:\SEM 2\.NET\Assignment 9\Assignment 9\bin\Debug\net6.0\Assignment 9.dll
+Z:\SEM 2\.NET\Assignment 9\Assignment 9\bin\Debug\net6.0\Assignment 9.pdb
+Z:\SEM 2\.NET\Assignment 9\Assignment 9\obj\Debug\net6.0\Assignment 9.csproj.AssemblyReference.cache
+Z:\SEM 2\.NET\Assignment 9\Assignment 9\obj\Debug\net6.0\Assignment 9.GeneratedMSBuildEditorConfig.editorconfig
+Z:\SEM 2\.NET\Assignment 9\Assignment 9\obj\Debug\net6.0\Assignment 9.AssemblyInfoInputs.cache
+Z:\SEM 2\.NET\Assignment 9\Assignment 9\obj\Debug\net6.0\Assignment 9.AssemblyInfo.cs
+Z:\SEM 2\.NET\Assignment 9\Assignment 9\obj\Debug\net6.0\Assignment 9.csproj.CoreCompileInputs.cache
+Z:\SEM 2\.NET\Assignment 9\Assignment 9\obj\Debug\net6.0\Assignment 9.dll
+Z:\SEM 2\.NET\Assignment 9\Assignment 9\obj\Debug\net6.0\refint\Assignment 9.dll
+Z:\SEM 2\.NET\Assignment 9\Assignment 9\obj\Debug\net6.0\Assignment 9.pdb
+Z:\SEM 2\.NET\Assignment 9\Assignment 9\obj\Debug\net6.0\Assignment 9.genruntimeconfig.cache
+Z:\SEM 2\.NET\Assignment 9\Assignment 9\obj\Debug\net6.0\ref\Assignment 9.dll
