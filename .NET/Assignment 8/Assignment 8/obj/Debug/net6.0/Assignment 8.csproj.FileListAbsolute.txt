@@ -1,0 +1,15 @@
+Z:\SEM 2\.NET\Assignment 8\Assignment 8\bin\Debug\net6.0\Assignment 8.exe
+Z:\SEM 2\.NET\Assignment 8\Assignment 8\bin\Debug\net6.0\Assignment 8.deps.json
+Z:\SEM 2\.NET\Assignment 8\Assignment 8\bin\Debug\net6.0\Assignment 8.runtimeconfig.json
+Z:\SEM 2\.NET\Assignment 8\Assignment 8\bin\Debug\net6.0\Assignment 8.dll
+Z:\SEM 2\.NET\Assignment 8\Assignment 8\bin\Debug\net6.0\Assignment 8.pdb
+Z:\SEM 2\.NET\Assignment 8\Assignment 8\obj\Debug\net6.0\Assignment 8.csproj.AssemblyReference.cache
+Z:\SEM 2\.NET\Assignment 8\Assignment 8\obj\Debug\net6.0\Assignment 8.GeneratedMSBuildEditorConfig.editorconfig
+Z:\SEM 2\.NET\Assignment 8\Assignment 8\obj\Debug\net6.0\Assignment 8.AssemblyInfoInputs.cache
+Z:\SEM 2\.NET\Assignment 8\Assignment 8\obj\Debug\net6.0\Assignment 8.AssemblyInfo.cs
+Z:\SEM 2\.NET\Assignment 8\Assignment 8\obj\Debug\net6.0\Assignment 8.csproj.CoreCompileInputs.cache
+Z:\SEM 2\.NET\Assignment 8\Assignment 8\obj\Debug\net6.0\Assignment 8.dll
+Z:\SEM 2\.NET\Assignment 8\Assignment 8\obj\Debug\net6.0\refint\Assignment 8.dll
+Z:\SEM 2\.NET\Assignment 8\Assignment 8\obj\Debug\net6.0\Assignment 8.pdb
+Z:\SEM 2\.NET\Assignment 8\Assignment 8\obj\Debug\net6.0\Assignment 8.genruntimeconfig.cache
+Z:\SEM 2\.NET\Assignment 8\Assignment 8\obj\Debug\net6.0\ref\Assignment 8.dll
