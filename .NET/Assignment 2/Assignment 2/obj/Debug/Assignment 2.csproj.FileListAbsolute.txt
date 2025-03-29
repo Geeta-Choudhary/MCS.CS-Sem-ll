@@ -1,0 +1,7 @@
+D:\GIt Repos\Sem-II\.NET\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe.config
+D:\GIt Repos\Sem-II\.NET\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe
+D:\GIt Repos\Sem-II\.NET\Assignment 2\Assignment 2\bin\Debug\Assignment 2.pdb
+D:\GIt Repos\Sem-II\.NET\Assignment 2\Assignment 2\obj\Debug\Assignment 2.csproj.AssemblyReference.cache
+D:\GIt Repos\Sem-II\.NET\Assignment 2\Assignment 2\obj\Debug\Assignment 2.csproj.CoreCompileInputs.cache
+D:\GIt Repos\Sem-II\.NET\Assignment 2\Assignment 2\obj\Debug\Assignment 2.exe
+D:\GIt Repos\Sem-II\.NET\Assignment 2\Assignment 2\obj\Debug\Assignment 2.pdb
