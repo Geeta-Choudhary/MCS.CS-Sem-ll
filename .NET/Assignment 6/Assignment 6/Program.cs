@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
+//Creating the customer class 
 public class Customer
 {
     public int CustomerId { get; set; }
