@@ -1,0 +1,15 @@
+h1{color :brown ;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+
+h2{color :blueviolet;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+
+
+    #registration-form{color:red;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+    
+.app-container{
+    text-align:center;
+    margin-top:50px;
+    font-family:Arial ,sans-serif;
+}
